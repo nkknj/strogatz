@@ -1,0 +1,3 @@
+# strogatz_dynamics
+
+ストロガッツ非線形ダイナミクスとカオスの練習問題をPythonで解いた痕跡。
